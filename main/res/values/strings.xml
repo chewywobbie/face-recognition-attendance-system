@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">unisnapattend</string>
+    <string-array name="Select_Classes">
+        <item>KS40004 - FYP II</item>
+        <item>KS40803 - Operating System</item>
+        <item>KS41603 - Pattern Recognition</item>
+        <item>KS42603 - Database System</item>
+    </string-array>
+</resources>
